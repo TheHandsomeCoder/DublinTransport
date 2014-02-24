@@ -17,7 +17,7 @@ class MainActivity
     {
 
         HashMap<String, LuasStation> stations = AppValues.getStations();
-
+         /*Some comments go here*/
 
          for(Map.Entry<String, LuasStation> entry :  stations.entrySet())
          {
